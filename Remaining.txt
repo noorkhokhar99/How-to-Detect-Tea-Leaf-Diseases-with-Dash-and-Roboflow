@@ -1,0 +1,1 @@
+Leaves Disease Detection model deployment offers immediate predictions and enhanced security by operating directly on-site, with the advantage of scalability for each farm. Global model deployment simplifies management and reduces costs by using shared resources. The hybrid approach combines these benefits, delivering quick local predictions and consistent global model updates.

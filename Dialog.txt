@@ -1,0 +1,1 @@
+Using the following Drag/drop box and the dialog box you can choose the pipeline for the image prediction.
